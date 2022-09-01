@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>First HTML document</title>
+<meta charset="UTF-8">
+<meta name="description" content="My first attempt at an HTML document. My goal is a persoanl website.">
+</head>
+<body>
+<h1>About me</h1>
+I'm a 30 year-old graduate student on the West Coast. I'm working toward certification as a Linux sysadmin, a change from my academic path.
+This page is practice for a personal webpage  where I intend to put up my thoughts and opinions on the tech and computer industry today, historically, and in the future.
+</body>
+</html>
